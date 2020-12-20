@@ -43,7 +43,7 @@ iv)relatedLinks: [{},{}]
 #To find all blogs
 
 
-1.get reuest  localhost/blogs/find
+1.get request  localhost/blogs/find
 
 #To find unique blog
 
