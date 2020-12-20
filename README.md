@@ -50,7 +50,8 @@ iv)relatedLinks: [{},{}]
 
 1. get request  localhost/finduni/:_id
 
-with uniqid(blogId)
+
+uniqid(blogId)
 
 #delete blog 
 
@@ -58,4 +59,4 @@ with uniqid(blogId)
 1.post request localhost/delete/:_id
 
 
-with uniqid(blogId)
+ uniqid(blogId)
