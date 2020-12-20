@@ -25,13 +25,13 @@ Created a Blog Backend express Application
 1.In postman: post request localhost/blogs/create
 enter details:
 
-blogHeader
+i)blogHeader
 
-blogContent
+ii)blogContent
 
-imageUrl:filetype  path
+iii)imageUrl:filetype  path
 
-relatedLinks: [{},{}]
+iv)relatedLinks: [{},{}]
 
 
 
