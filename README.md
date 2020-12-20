@@ -25,6 +25,8 @@ Created a Blog Backend express Application
 
 3. node app.js to start 
 
+4.create a file  name "uploads"
+
 #Creating a blog
 
 1.In postman: post request localhost/blogs/create
