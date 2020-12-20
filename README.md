@@ -1,5 +1,5 @@
 Created a Blog Backend express Application 
-1. It creates a blog with blogHeader , blogContent,imageUrl,and relatedlinks.
+1.It creates a blog with blogHeader , blogContent,imageUrl,and relatedlinks.
 
 
 
@@ -18,10 +18,15 @@ Created a Blog Backend express Application
 
 #Start
 1.npm install to install all dependencies
+
+
 2.enter mongo url in config.env
+
+
 3. node app.js to start 
 
 #Creating a blog
+
 1.In postman: post request localhost/blogs/create
 enter details:
 
@@ -45,10 +50,12 @@ iv)relatedLinks: [{},{}]
 
 1. get request  localhost/finduni/:_id
 
-with uniqid
+with uniqid(blogId)
 
 #delete blog 
 
 
 1.post request localhost/delete/:_id
-uniqid 
+
+
+with uniqid(blogId)
