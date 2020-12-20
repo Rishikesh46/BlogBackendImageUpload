@@ -25,7 +25,7 @@ Created a Blog Backend express Application
 
 3. node app.js to start 
 
-4.create a file  name "uploads"
+4.create a folder name "uploads"
 
 #Creating a blog
 
